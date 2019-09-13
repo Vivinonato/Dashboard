@@ -19,3 +19,18 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+
+Route::resource('customers', 'CustomerController');
+
+
+Route::resource('customerCPFs', 'CustomerCPFController');
+
+Route::resource('customerCNPJs', 'CustomerCNPJController');
+
+Route::resource('customerCNPJs', 'CustomerCNPJController');
+
+Route::resource('customerCNPJs', 'CustomerCNPJController');
+
+Route::resource('customerCNPJs', 'CustomerCNPJController');
+
+Route::resource('customerCNPJs', 'CustomerCNPJController');

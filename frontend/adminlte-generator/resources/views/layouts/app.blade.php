@@ -39,7 +39,7 @@
 
             <!-- Logo -->
             <a href="#" class="logo">
-                <b>InfyOm</b>
+                <b>VoxLink</b>
             </a>
 
             <!-- Header Navbar -->
@@ -56,7 +56,7 @@
                             <!-- Menu Toggle Button -->
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                 <!-- The user image in the navbar-->
-                                <img src="http://infyom.com/images/logo/blue_logo_150x150.jpg"
+                                <img src="https://media.licdn.com/dms/image/C4D0BAQGvARQAKLx1dw/company-logo_200_200/0?e=2159024400&v=beta&t=gJrmidNxjYmh9Og4KDyIJdzIu6fB-oyFc6HvDbeUh70"
                                      class="user-image" alt="User Image"/>
                                 <!-- hidden-xs hides the username on small devices so only the image appears. -->
                                 <span class="hidden-xs">{!! Auth::user()->name !!}</span>
@@ -64,7 +64,7 @@
                             <ul class="dropdown-menu">
                                 <!-- The user image in the menu -->
                                 <li class="user-header">
-                                    <img src="http://infyom.com/images/logo/blue_logo_150x150.jpg"
+                                    <img src="https://media.licdn.com/dms/image/C4D0BAQGvARQAKLx1dw/company-logo_200_200/0?e=2159024400&v=beta&t=gJrmidNxjYmh9Og4KDyIJdzIu6fB-oyFc6HvDbeUh70"
                                          class="img-circle" alt="User Image"/>
                                     <p>
                                         {!! Auth::user()->name !!}
