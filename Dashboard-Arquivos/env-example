@@ -1,0 +1,8 @@
+XDEBUG_CONFIG="remote_host=172.17.0.1 remote_enable=1"
+
+MYSQL_HOST=db
+MYSQL_DATABASE=troque_aqui
+MYSQL_USER=troque_aqui
+MYSQL_PASSWORD=troque_aqui
+MYSQL_ROOT_PASSWORD=root
+
